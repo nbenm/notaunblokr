@@ -1,12 +1,12 @@
 {
-	"name": "website-aio",
+	"name": "Schoology",
 	"version": "1.0.0",
-	"description": "Bundle of all scripts, for use on single server productions.",
-	"author": "Holy Unblocker",
+	"description": "School project",
+	"author": "Ben Mann",
 	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/holy-unblocker/website-aio.git"
+		"url": "github.com/nbenm"
 	},
 	"private": true,
 	"type": "module",
